@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	
+  
+	<folder>LISA</folder>
+	
+  
+	<filename>nightClip1--00000</filename>
+	
+  
+	<size>
+		
+    
+		<width>1280</width>
+		
+    
+		<height>960</height>
+		
+    
+		<depth>3</depth>
+		
+  
+	</size>
+	
+  
+	<object>
+		
+    
+		<name>go</name>
+		
+    
+		<pose>Unspecified</pose>
+		
+    
+		<truncated>0</truncated>
+		
+    
+		<difficult>0</difficult>
+		
+    
+		<bndbox>
+			
+      
+			<xmin>713</xmin>
+			
+      
+			<ymin>284</ymin>
+			
+      
+			<xmax>729</xmax>
+			
+      
+			<ymax>308</ymax>
+			
+    
+		</bndbox>
+		
+  
+	</object>
+	
+  
+	<object>
+		
+    
+		<name>go</name>
+		
+    
+		<pose>Unspecified</pose>
+		
+    
+		<truncated>0</truncated>
+		
+    
+		<difficult>0</difficult>
+		
+    
+		<bndbox>
+			
+      
+			<xmin>806</xmin>
+			
+      
+			<ymin>325</ymin>
+			
+      
+			<xmax>824</xmax>
+			
+      
+			<ymax>361</ymax>
+			
+    
+		</bndbox>
+		
+  
+	</object>
+	
+  
+	<object>
+		
+    
+		<name>go</name>
+		
+    
+		<pose>Unspecified</pose>
+		
+    
+		<truncated>0</truncated>
+		
+    
+		<difficult>0</difficult>
+		
+    
+		<bndbox>
+			
+      
+			<xmin>688</xmin>
+			
+      
+			<ymin>340</ymin>
+			
+      
+			<xmax>698</xmax>
+			
+      
+			<ymax>361</ymax>
+			
+    
+		</bndbox>
+		
+  
+	</object>
+	
+  
+	<object>
+		
+    
+		<name>go</name>
+		
+    
+		<pose>Unspecified</pose>
+		
+    
+		<truncated>0</truncated>
+		
+    
+		<difficult>0</difficult>
+		
+    
+		<bndbox>
+			
+      
+			<xmin>710</xmin>
+			
+      
+			<ymin>340</ymin>
+			
+      
+			<xmax>719</xmax>
+			
+      
+			<ymax>361</ymax>
+			
+    
+		</bndbox>
+		
+  
+	</object>
+	
+
+</annotation>
